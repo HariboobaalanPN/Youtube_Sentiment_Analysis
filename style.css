@@ -1,41 +1,38 @@
 body{
 background-color: rgb(66, 134, 189);
-background:url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Youtube-Logo-Wallpapers-Free-Download.jpg") no-repeat center center fixed;
-background-size:cover;
 }
 .heading h1{
-font-size:2vw ;
-font-family:'Roboto', sans-serif;
+font-size:3vw ;
 color:white;
-margin:1vw;
+margin:2vw;
 text-align: center;
 }
 .leftcontainer{
 width:25vw;
-height:37vh;
+height:22vw;
 float:left;
-margin: 10vw 0vw 0vw 5vw;
+margin: 10% 5%;
 text-align: center;
 }
 .container{
-background-color: rgba(111, 196, 245);
+background-color: rgba(111, 196, 245, 0.3);
 width:100%;
-height:75%;
+height:75%;    
 }
 .rightcontainer{
 float:right;
 width:60%;
-height:70%;
-margin:2vw;
+height:60%;
+margin:2% 2%;
 }
 .chart{
-background-color: rgba(111, 196, 245);
-width:16vw;
-height:17vw;
+background-color: rgba(111, 196, 245, 0.3);
+width:20vw;
+height:16vw;
 margin:1vw;
 }
 .charthead{
-background-color: rgba(100, 255, 100);
+background-color: rgba(100, 255, 100, 0.3);
 font-size:1vw;
 height:1vw;
 padding:1vw;
@@ -52,10 +49,9 @@ float:left;
 }
 .chart2, .chart4{
 float:right;
-margin-right:22vw;
+margin-right:20%;
 }
 .image{
-margin-left:-2vw;
 width:20vw;
-height:14vw;
+height:15vw;
 }
